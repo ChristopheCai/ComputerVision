@@ -4,5 +4,6 @@ To execute the project:
 - Then in the same path, create a folder "input_videos"
 - Put the videos you want to stabilize in this folder
 - Execute the file.py
+
 You will see the videos displayed while the program is executed.
 After the program finished, you will see all the stabilized videos in the "output_videos" folder.
