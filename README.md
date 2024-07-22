@@ -6,4 +6,5 @@ To execute the project:
 - Execute the file.py
 
 You will see the videos displayed while the program is executed.
+
 After the program finished, you will see all the stabilized videos in the "output_videos" folder.
